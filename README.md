@@ -10,7 +10,7 @@ This repository contains a collection list of tools for acoustic beamforming.
     - __*[Link to the article on ResearchGate.](https://www.researchgate.net/publication/362024706_Teaching_acoustical_beamforming_via_active_learning)*__
 
 - [MicArrayBeamforming](https://github.com/MiguelBlancoGalindo/MicArrayBeamforming): this toolbox is focused on microphone array generation and its evaluation.
-    - *[Link to the article.](https://www.aes.org/tmpFiles/elib/20220915/20851.pdf)*
+    - *[Link to the article.](https://www.aes.org/e-lib/browse.cfm?elib=20851)*
 
 - [Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing):  routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.
 
