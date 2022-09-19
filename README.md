@@ -2,6 +2,8 @@
 
 This repository contains a collection list of tools for acoustic beamforming.
 
+Contributions are welcome, get in touch. 😊
+
 ## Matlab
 
 - [ITA-Toolbox](https://git.rwth-aachen.de/ita/toolbox): offers implementations of many beamforming algorithms and microphone array geometry generation and evaluation tools.
