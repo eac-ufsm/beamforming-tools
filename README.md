@@ -38,6 +38,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Arlpy](https://github.com/org-arl/arlpy): has a few algorithms for beamforming.
 
+- [AcouPipe](https://github.com/adku1173/acoupipe): extends [Acoular](https://github.com/acoular/acoular) by allowing the generation of unique acoustical source localization and characterization data sets that can be used for training of deep neural networks and machine learning.
+
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
