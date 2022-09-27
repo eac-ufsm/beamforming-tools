@@ -11,6 +11,9 @@ Contributions are welcome, get in touch. 😊
 - [Beamap](https://github.com/eac-ufsm/beamap): offers implementations of beamforming algorithms and microphone array geometry generation and evaluation tools. This toolbox is created with focus in teaching the beamforming technique to undergraduate students from the [Acoustical Engineering Program](https://asa.scitation.org/doi/10.1121/10.0013570) at the Federal University of Santa Maria, in southern Brazil.
     - __*[Link to the article on ResearchGate.](https://www.researchgate.net/publication/362024706_Teaching_acoustical_beamforming_via_active_learning)*__
 
+- [fia2022-fontes-sonoras](https://github.com/eac-ufsm/fia2022-fontes-sonoras): as an educational toolbox, offers tools for the generation of simulated data similar to sound source measurements, being the source is static or in movement (including the Doppler Effect). Other possibilities rely on the creation of receiver arrays using pre-defined geometries.
+    - __*[Link to the article.](https://www.fia2022.com.br/arearestrita/apresentacoes/9042.pdf)*__
+
 - [MicArrayBeamforming](https://github.com/MiguelBlancoGalindo/MicArrayBeamforming): this toolbox is focused on microphone array generation and its evaluation.
     - *[Link to the article.](https://www.aes.org/e-lib/browse.cfm?elib=20851)*
 
