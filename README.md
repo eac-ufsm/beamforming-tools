@@ -17,7 +17,7 @@ Contributions are welcome, get in touch. 😊
 - [MicArrayBeamforming](https://github.com/MiguelBlancoGalindo/MicArrayBeamforming): this toolbox is focused on microphone array generation and its evaluation.
     - *[Link to the article.](https://www.aes.org/e-lib/browse.cfm?elib=20851)*
 
-- [Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing):  routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.
+- [Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing): routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.
 
 - [Acoustic-Beamforming-Methods](https://github.com/HauLiang/Acoustic-Beamforming-Methods): provides a series of beamforming algorithms as demos.
 
@@ -33,6 +33,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Augen](https://github.com/eac-ufsm/augen): is designed to create a direct integration between [Acoular](https://github.com/acoular/acoular) and [Amiet Tools](https://github.com/fchirono/amiet_tools). It also provides a few functions written in Matlab to provide support for using toolboxes like [ITA-Toolbox](https://git.rwth-aachen.de/ita/toolbox) and [Beamap](https://github.com/eac-ufsm/beamap).
     - __*[Link to the article on ResearchGate.](https://www.researchgate.net/publication/363031873_Integracao_de_multiplas_toolboxes_para_aplicacao_em_beamforming_e_aeroacustica)*__
+
+- [SpectAcoular](https://github.com/acoular/spectacoular): is an [Acoular](https://github.com/acoular/acoular) extension built to provide the usage of the toolbox with a Graphical User Interface (GUI). Moreover, is considered as being well suited for educative and demo purposes.
 
 - [DeconvBFNet](https://gitlab.isae-supaero.fr/daep/deconvbfnet): offers convolutional neural network used to deconvolute beamforming maps.
   - *[Link to the article.](https://www.ingentaconnect.com/content/ince/incecp/2021/00000263/00000001/art00057)*
