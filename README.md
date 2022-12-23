@@ -25,7 +25,7 @@ Contributions are welcome, get in touch. 😊
 
 - [Acoustic-Beamforming](https://github.com/Anwar-M/Acoustic-Beamforming): provides various beamforming, allowing for convection, different types of steering vectors, and more.
 
-- [Beamforming Tools](https://github.com/jorgengrythe/beamforming): set of codes with diverse options for array processing (developed by Jørgen Grythe) --- alternative links [#1](https://www.mathworks.com/matlabcentral/fileexchange/53294-delay-and-sum-beamforming-for-arbitrary-array-geometry) [#2](https://www.mathworks.com/matlabcentral/fileexchange/49690-array-factor-beampattern-of-discrete-array-of-any-shape?s_tid=prof_contriblnk).
+- [Beamforming Tools](https://github.com/jorgengrythe/beamforming): set of codes with diverse options for array processing (developed by Jørgen Grythe) — alternative links [#1](https://www.mathworks.com/matlabcentral/fileexchange/53294-delay-and-sum-beamforming-for-arbitrary-array-geometry) [#2](https://www.mathworks.com/matlabcentral/fileexchange/49690-array-factor-beampattern-of-discrete-array-of-any-shape?s_tid=prof_contriblnk).
 
 
 ## Python
