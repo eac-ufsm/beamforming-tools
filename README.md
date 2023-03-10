@@ -27,6 +27,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Beamforming Tools](https://github.com/jorgengrythe/beamforming): set of codes with diverse options for array processing (developed by Jørgen Grythe) — alternative links [#1](https://www.mathworks.com/matlabcentral/fileexchange/53294-delay-and-sum-beamforming-for-arbitrary-array-geometry) [#2](https://www.mathworks.com/matlabcentral/fileexchange/49690-array-factor-beampattern-of-discrete-array-of-any-shape?s_tid=prof_contriblnk).
 
+- [ACOSOLO](https://github.com/gilleschardon/acosolo): implementations of some optimization based methods for source localization (CMF, Gridless methods, and others).
+
 
 ## Python
 
@@ -46,6 +48,8 @@ Contributions are welcome, get in touch. 😊
 - [Arlpy](https://github.com/org-arl/arlpy): has a few algorithms for beamforming.
 
 - [AcouPipe](https://github.com/adku1173/acoupipe): extends [Acoular](https://github.com/acoular/acoular) by allowing the generation of unique acoustical source localization and characterization data sets that can be used for training of deep neural networks and machine learning.
+
+- [ACOSOLO](https://github.com/gilleschardon/acosolo): implementations of some optimization based methods for source localization (CMF, Gridless methods, and others).
 
 ## Julia
 
