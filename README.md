@@ -52,6 +52,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Beamforming-for-speech-enhancement](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement): a series of simple implementations (DSB, MVDR and CGMM-MVDR) for speech enhancement.
 
+- [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics): a toolbox includying implementations on room acoustics and beamforming like DSB and direction of arrival (DOA) finding. Reference paper: [Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms](https://www.researchgate.net/publication/320344643_Pyroomacoustics_A_Python_Package_for_Audio_Room_Simulation_and_Array_Processing_Algorithms).
+
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
