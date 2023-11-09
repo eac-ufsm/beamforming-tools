@@ -54,6 +54,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics): a toolbox includying implementations on room acoustics and beamforming like DSB and direction of arrival (DOA) finding. Reference paper: [Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms](https://www.researchgate.net/publication/320344643_Pyroomacoustics_A_Python_Package_for_Audio_Room_Simulation_and_Array_Processing_Algorithms).
 
+- [Fast beamforming in Python](https://github.com/schipp/fast_beamforming): fast and efficient beamforming notebooks in Python, made for educational porpuses.
+
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
