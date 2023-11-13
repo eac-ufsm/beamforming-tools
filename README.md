@@ -56,6 +56,10 @@ Contributions are welcome, get in touch. 😊
 
 - [Fast beamforming in Python](https://github.com/schipp/fast_beamforming): fast and efficient beamforming notebooks in Python, made for educational porpuses.
 
+- [Ultrasound Beamforming for Linear arrays](https://github.com/csheaff/us-beamform-linarray/tree/master): ultrasound beamforming algorithms in Python and in Rust for linear arrays.
+
+- [Beamforming30](https://github.com/huangzhenyu/beamforming/tree/master): more than 30 beamforming algorithms in Python (part of the documentation is in Chinese).
+
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
