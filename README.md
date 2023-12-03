@@ -29,6 +29,8 @@ Contributions are welcome, get in touch. 😊
 
 - [ACOSOLO](https://github.com/gilleschardon/acosolo): implementations of some optimization based methods for source localization (CMF, Gridless methods, and others).
 
+- [DOA Estimation via Music](https://github.com/msamsami/doa-estimation-music): a mini project to show how the direction of arrivals (DOA) is estimated using the MUSIC algorithm.
+
 ## Python
 
 - [Acoular](https://github.com/acoular/acoular): provides the possibility of using several algorithms for beamforming, as well as deconvolution methods, signal generators, and other tools.
