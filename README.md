@@ -21,6 +21,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Acoustic-Beamforming-Methods](https://github.com/HauLiang/Acoustic-Beamforming-Methods): provides a series of beamforming algorithms as demos.
 
+- [Acoustic-Beamforming-Advanced](https://github.com/HauLiang/Acoustic-Beamforming-Advanced): from the same author of [Acoustic-Beamforming-Methods](https://github.com/HauLiang/Acoustic-Beamforming-Methods), here is a MATLAB code used as the baseline of the work publish as "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming".
+
 - [Beamforming-Simulations](https://github.com/Anwar-M/Beamforming-Simulations): offers basic beamforming simulations for various circumstances and contains various examples and experiments concerning beamforming.
 
 - [Acoustic-Beamforming](https://github.com/Anwar-M/Acoustic-Beamforming): provides various beamforming, allowing for convection, different types of steering vectors, and more.
