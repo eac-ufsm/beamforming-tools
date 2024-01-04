@@ -62,6 +62,8 @@ Contributions are welcome, get in touch. 😊
 
 - [Beamforming30](https://github.com/huangzhenyu/beamforming/tree/master): more than 30 beamforming algorithms in Python (part of the documentation is in Chinese).
 
+- [vBeam](https://github.com/magnusdk/vbeam): a fast and differentiable beamformer for optimizing ultrasound imaging, that is an open-source beamforming library built on top of machine learning frameworks. This enables fast processing, rapid prototyping, and integrating beamforming into machine learning algorithms.
+
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
