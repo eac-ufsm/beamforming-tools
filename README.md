@@ -91,3 +91,5 @@ Contributions are welcome, get in touch. 😊
 ## Julia
 
 - [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl): provides methods for working with microphone array measurements. Offers as well utilities for processing beamforming and other acoustic imaging methods.
+
+- [airfoil-in-kevlar-walled-windtunnel](https://github.com/MicrophoneArrayBenchmarking/airfoil-in-kevlar-walled-windtunnel): a benchmarking case of airfoil measurement made in a wind tunnel, destined for educational purposes, such as providing data and ideas for different beamforming algorithms.
