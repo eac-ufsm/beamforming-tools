@@ -1,3 +1,4 @@
+
 # beamforming-tools
 
 This repository contains a collection list of tools for acoustic beamforming.
@@ -21,6 +22,8 @@ Contributions are welcome, get in touch. 😊
 - [Acoustic-Beamforming-Advanced](https://github.com/HauLiang/Acoustic-Beamforming-Advanced): from the same author of [Acoustic-Beamforming-Methods](https://github.com/HauLiang/Acoustic-Beamforming-Methods), here is a MATLAB code used as the baseline of the work publish as "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming".
 
 - [Acoustic-Beamforming-Methods](https://github.com/HauLiang/Acoustic-Beamforming-Methods): provides a series of beamforming algorithms as demos.
+
+- [Array Signal Processing Demos](https://www.mathworks.com/matlabcentral/fileexchange/55924-array-signal-processing-demos): these demos reproduce all the numerical examples found in Chapter 11 of "Statistical and Adaptive Signal Processing: Spectral Estimation, Signal Modeling, Adaptive Filtering and Array Processing" by D. G. Manolakis, V. K. Ingle and S. Kogon. Fundamental concepts like the Spatial Matched Filter, Tapered/Untapered Optimum Beamformer, Sample Matrix Inversion (SMI) and Correlation Matrix Diagonal Loading are demonstrated. - By [Ilias Konsoulas](https://www.mathworks.com/matlabcentral/profile/authors/1734254).
 
 - [Beamforming](https://github.com/jorgengrythe/beamforming): Matlab files for various types of beamforming for custom 1D, 2D and 3D arrays.
 
